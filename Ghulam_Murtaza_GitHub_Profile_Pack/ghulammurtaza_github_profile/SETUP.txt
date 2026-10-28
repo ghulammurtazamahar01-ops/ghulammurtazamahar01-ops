@@ -1,0 +1,13 @@
+GITHUB PROFILE README — QUICK SETUP
+
+1. Extract this ZIP.
+2. Open GitHub and create (or open) a PUBLIC repository whose name exactly matches your username:
+   ghulammurtazamahar01-ops
+3. Upload README.md and the assets folder together, keeping the folder structure unchanged.
+4. Commit the changes. GitHub will show README.md on your profile.
+
+NOTES
+- The README references the banner as assets/github-banner.jpg, so upload that file too.
+- Project descriptions are editable and should reflect each project's actual current status.
+- GitHub stats and technology icons load from external services and need an internet connection.
+- Review the links and replace/add your preferred contact details before publishing.
